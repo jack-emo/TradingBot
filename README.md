@@ -13,3 +13,4 @@
 * Executes stop-loss orders when profit falls below 1%, and executes a sell order when the equity value reaches > 1%
 
 ### Usage
+~/tradingBot python3
