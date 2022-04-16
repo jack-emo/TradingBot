@@ -5,10 +5,10 @@ Ever wanted to beat the market without actually putting in effort??? Thanks to t
 (Note: This bot was created to enhance my understanding of Python3 libraries, as well as to gain some context as to how APIs work, this should not be used as a method of income and should be taken with a grain of salt).
 
 ### Built with
-* ibapi
-* numpy
-* pandas as pd
-* pytz
+* [ibapi](https://pypi.org/project/ibapi/)
+* [Numpy](https://numpy.org)
+* [Pandas](https://pandas.pydata.org)
+* [Pytz](https://pypi.org/project/pytz/)
 
 ### Features
 * Note: Must have a working Interactive Brokers account in order to use this Bot
